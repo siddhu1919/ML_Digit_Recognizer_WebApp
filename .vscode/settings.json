@@ -1,9 +1,0 @@
-{
-    "cSpell.words": [
-        "astype",
-        "crossentropy",
-        "gradio",
-        "relu"
-    ],
-    "python.analysis.autoImportCompletions": true
-}
